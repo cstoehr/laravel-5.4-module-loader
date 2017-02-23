@@ -1,0 +1,22 @@
+{
+    "name": "cstoehr/module-loader",
+    "description": "Laravel Modul Loader",
+    "keywords": ["laravel", "module"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cstoehr",
+            "email": "info@cms-develop.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cstoehr\\Modules\\": "src/"
+        },
+    },
+    "minimum-stability": "stable"
+}
