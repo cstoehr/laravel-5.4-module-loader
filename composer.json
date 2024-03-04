@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Cstoehr\\Modules\\": "src/"
-        },
+        }
     },
     "minimum-stability": "stable"
 }
