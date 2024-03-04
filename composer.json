@@ -1,5 +1,5 @@
 {
-    "name": "cstoehr/module-loader",
+    "name": "cms-dev/module-loader",
     "description": "Laravel Modul Loader",
     "keywords": ["laravel", "module"],
     "license": "MIT",
